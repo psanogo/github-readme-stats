@@ -1,5 +1,4 @@
 # github-readme-stats
-# github-readme-stats
 
 ---- | --- | ---
 ### Connect with me:
