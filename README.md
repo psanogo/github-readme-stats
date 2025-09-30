@@ -80,4 +80,26 @@ A collection of badges I've earned, highlighting my commitment to continuous lea
 *   [LinkedIn](https://www.linkedin.com/in/papasanog%C3%B4/)
 *   [Credly](https://www.credly.com/users/papa-m-sanogo)
 *   [Coursera](https://www.coursera.org/learner/pms-917)
+*   Introduction to Image Generation
+*   Introduction to Generative AI
+
+## Recent Learning Activity
+
+Below is a list of recent labs and courses I have successfully completed on Google Cloud Skills Boost.
+
+*   **Host a Web App on Google Cloud Using Compute Engine** (Lab)
+*   **Get Started with Pub/Sub: Challenge Lab** (Lab)
+*   **Pub/Sub: Qwik Start - Console** (Lab)
+*   **Get Started with Pub/Sub** (Course)
+*   **Getting Started with VPC Networking and Google Compute Engine** (Lab)
+*   **Loading Data into Cloud SQL** (Lab)
+*   **Monitor Environments with Google Cloud Managed Service for Prometheus: Challenge Lab** (Lab)
+*   **Share Data using Google Data Cloud: Challenge Lab** (Lab)
+*   **Consuming Customer Specific Datasets from Data Sharing Partners using BigQuery** (Lab)
+*   **Data Publishing on BigQuery for Data Sharing Partners** (Lab)
+
+## Connect with me
+*   [LinkedIn](https://www.linkedin.com/in/papasanog%C3%B4/)
+*   [Credly](https://www.credly.com/users/papa-m-sanogo)
+
 
