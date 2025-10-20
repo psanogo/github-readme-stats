@@ -1,0 +1,12 @@
+from rklib import submit
+import json
+
+key = "R1eDmiHNEei9kxIYdin0mA"
+part = "fnFg7"
+
+# --- You need to fill in these two lines ---
+email = "papamsanogo@gmail.com"  # Replace with your email address
+token = "your_submission_token"   # Replace with the token from the Coursera grader page
+
+# This function calls the grader
+submit(email, token, key, part, [part], json.dumps(assignment1(sc)))
